@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd kazakhstan-quiz && npm run build",
+  "outputDirectory": "kazakhstan-quiz/out"
+}
