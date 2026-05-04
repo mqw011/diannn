@@ -1,8 +1,3 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  // Optional: Change links `/about` to `/about/` if needed, but not strictly necessary here.
-  // trailingSlash: true,
-};
-
+const nextConfig = {};
 module.exports = nextConfig;
